@@ -847,9 +847,4 @@
         PrintPreviewDialog1.ShowDialog()
     End Sub
 
-    Private Sub PrintDocument1_PrintPage(ByVal sender As Object, ByVal e As Printing.PrintPageEventArgs) Handles PrintDocument1.PrintPage
-       
-    End Sub
-
-
 End Class
