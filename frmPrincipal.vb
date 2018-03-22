@@ -27,7 +27,7 @@
 
     Dim difIni As Func(Of TimeSpan, TimeSpan) = Function(s) New TimeSpan(20, 0, 0).Subtract(s)
     Dim difFin As Func(Of TimeSpan, TimeSpan) = Function(s) s.Subtract(New TimeSpan(8, 0, 0))
-    Dim mediasH As Func(Of TimeSpan, Integer) = Function(s) (Int((Int(s.Hours) * 60) / 30)) + Int(Int(s.Minutes + 10) / 30)
+    Dim mediasH As Func(Of TimeSpan, Integer) = Function(s) (Int((Int(s.Hours) * 60) / 30)) + (Int(Int(s.Minutes) / 35) * 2)
 
     Private Sub frmPrincipal_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         dgvDetalles.SelectionMode = Nothing
@@ -826,18 +826,20 @@
     Function calculoBasico(ByVal dif As TimeSpan)
         Dim costoDia As Integer
         MessageBox.Show(dif.ToString)
-        If tipo = "Moto" Then
-            costoDia = (dif.Hours * hora) + (Int(dif.Minutes / 30) * hora)
+
+        costoDia = dif.Hours * hora
+        If dif.Minutes / 35 = 0 Then
+            If dif.Minutes > 5 Then
+                costo += horaMinimo
+            End If
         Else
-            mediasHoras = mediasH(dif)
-            costoDia = mediasHoras * (hora / 2)
+            costo += hora
         End If
+
         'costoDia > limiteDia
         If costoDia > horaLimite Then
             costoDia = horaLimite
-        ElseIf mediasHoras < 2 Then
-            'MessageBox.Show("Es menor :" & mediasHoras & "- minimo:" & horaMinimo)
-            'mediasHoras < 1
+        ElseIf dif.Hours = 0 And dif.Minutes < 35 Then
             costoDia = horaMinimo
         End If
         Return costoDia

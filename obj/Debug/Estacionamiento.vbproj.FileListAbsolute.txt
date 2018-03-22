@@ -1,0 +1,51 @@
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.pdb
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.xml
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.Resources.resources
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.vbproj.GenerateResource.Cache
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.exe
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.xml
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.pdb
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.frmPrincipal.resources
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\obj\Debug\Interop.ADODB.dll
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.vbproj.ResolveComReference.cache
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\bin\Debug\Interop.ADODB.dll
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe.manifest
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.application
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.exe.manifest
+C:\Users\Cliente\Desktop\Programa\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.application
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Interop.ADODB.dll
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.vbproj.ResolveComReference.cache
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.exe
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.xml
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.pdb
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe.manifest
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.application
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.pdb
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.xml
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Debug\Interop.ADODB.dll
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.frmPrincipal.resources
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.Resources.resources
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.vbproj.GenerateResource.Cache
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.exe.manifest
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.application
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Interop.ADODB.dll
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.vbproj.ResolveComReference.cache
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.exe
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.xml
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.pdb
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe.manifest
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.application
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.pdb
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.xml
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Debug\Interop.ADODB.dll
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.frmPrincipal.resources
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.Resources.resources
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.vbproj.GenerateResource.Cache
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.exe.manifest
+C:\Users\Cliente\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.application

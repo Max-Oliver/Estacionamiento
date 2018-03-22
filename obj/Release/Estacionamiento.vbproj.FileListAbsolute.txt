@@ -1,0 +1,17 @@
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Release\Estacionamiento.exe.manifest
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Release\Estacionamiento.application
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Release\Estacionamiento.exe
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Release\Estacionamiento.pdb
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Release\Estacionamiento.xml
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\bin\Release\Interop.ADODB.dll
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Release\Interop.ADODB.dll
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Release\Estacionamiento.vbproj.ResolveComReference.cache
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Release\Estacionamiento.frmPrincipal.resources
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Release\Estacionamiento.Resources.resources
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Release\Estacionamiento.vbproj.GenerateResource.Cache
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Release\Estacionamiento.exe.manifest
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Release\Estacionamiento.application
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Release\Estacionamiento.exe
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Release\Estacionamiento.xml
+C:\Users\ZoroIsMyMain\Downloads\Parking Corregido FinalXD\Parking Corregido FinalXD\Estacionamiento\Estacionamiento\obj\Release\Estacionamiento.pdb
